@@ -9,4 +9,3 @@ To run this game you need to have python installed on your machine. And also the
 ### Double Tennis
 <img src="https://user-images.githubusercontent.com/102380257/160243409-b2572aa4-cc6d-4bf0-8694-007ce6940f5f.png" width=250px><br>
 <br>
-By Pranav
